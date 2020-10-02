@@ -1,4 +1,5 @@
 # WLANRestarter - 一个简单的无线网卡重启器
+<<<<<<< HEAD
 
 ## 一、为啥要做这个软件
 众所周知,部分Win10系统有个特性:网卡掉线!!!
@@ -41,3 +42,6 @@
 ![avater](./Readme.Picture/9.png)
 
 *P.S. 可以用 WLANRestarter -log指令将结果保存至log文件哦~*
+=======
+众所周知,部分Win10系统有个特性:网卡掉线!!!
+>>>>>>> b536ad5c38fc4e30853375a60e3dbe6867d529e5
